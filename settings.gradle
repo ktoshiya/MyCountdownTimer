@@ -1,0 +1,2 @@
+rootProject.name='MyCountdown Timer'
+include ':app'
